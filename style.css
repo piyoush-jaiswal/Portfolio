@@ -429,7 +429,7 @@ body {
     ;
 }
 .contact h2{
-    font-size: 0px;
+    font-size: 60px;
     line-height: 1;
     text-align: center;
     padding-top: 80px;
@@ -499,6 +499,7 @@ body {
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
+    margin-left: 15px;
     border-radius: 0.5rem;
 }
 .contact-form textarea{
