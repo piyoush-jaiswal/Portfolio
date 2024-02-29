@@ -299,9 +299,6 @@ section{
         0 0 25px #2dbbda, 0 0 50px #2dbbda,
         0 0 100px #2dbbda, 0 0 200px #2dbbda
 }
-.portfolio{
-    padding: 90px;
-}
 .main-text{
     display: grid;
     background-color: transparent;
