@@ -1,5 +1,5 @@
 var typed=new Typed(".text",{
-    strings:["Java Developer", "Frontend Developer", "AI/ML Model Trainer" ],
+    strings:["Software Engineer","Java Developer", "AI/ML Ceritified" ],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
